@@ -1,2 +1,4 @@
 dev test ffff
 trim res
+stash function
+
